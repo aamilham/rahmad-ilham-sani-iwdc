@@ -42,20 +42,25 @@ body {
     margin: 0 30px;
 }
 
+.submenu-use{
+    font-weight: bold;
+}
+
 .submenuitem-island{
     align-items: center;
     margin: 0 30px;
     width: 50;
     height: 30;
-    font-weight: bold;
 }
 
 .submenuitem-beach{
     margin: 0 30px;
+    color: black;
 }
 
 .submenuitem-mountain{
     margin: 0 30px;
+    color: black;
 }
 
 @keyframes fadeInOpacity {
